@@ -1,0 +1,12 @@
+maxLUNs
+create mutiple LUN
+One LUN with maxsize
+export LUN to Host when doing IO
+unexport a Lun when doing IO
+remove an un-exported LUN when doing IO
+resize LUN when doing IO
+hot plug when doing IO
+Create LUN for multi HOST
+Performance test with one LUN
+Performance test with max LUNs
+Performace test with LUN created and exported
