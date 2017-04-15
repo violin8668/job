@@ -1,8 +1,10 @@
 maxLUNs
-create mutiple LUN
+create mutiple LUNs
+cocurrent create one LUNs
+cocurrent create one Lun and multiple LUNs
 One LUN with maxsize
-export LUN to Host when doing IO
-unexport a Lun when doing IO
+export a LUN to Host when doing IO
+unexport a LUN when doing IO
 remove an un-exported LUN when doing IO
 resize LUN when doing IO
 hot plug when doing IO
